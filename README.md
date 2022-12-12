@@ -2,7 +2,7 @@
 
 HEIDENHAIN TNCremoNT (Plus) + TeleService
 
-**TNCremoNT:** v3.2 332180 SP1  
+**TNCremoNT:** v3.3 and v3.2 332180 SP1  
 **TeleService:** v2.2 332181  
 DR. JOHANNES HEIDENHAIN GmbH   
 www.heidenhain.de/de_EN/software/  
